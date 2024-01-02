@@ -2,13 +2,11 @@ import Image from "next/image"
 
 import Feedback from "./components/Feedback";
 import Footer from "./components/Footer";
-import Header from "./components/Header";
 import RegistrationForm from "./components/RegistrationForm";
 
 export default function Home() {
   return (
     <>
-      <Header/>
       <main className="flex min-h-screen min-w-[640px] flex-col items-center bg-e5e6e7 ">
         <section className="flex flex-col justify-center items-center w-[80%] max-w-screen-lg mx-auto mb-5">
           <div className="w-full flex flex-col justify-center items-center md:flex-row md:justify-around">
