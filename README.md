@@ -3,6 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+<h1 align="center">Steps to Execute</h1>
+<h4>Clone the Repository</h4>
+    
+ > git clone https://github.com/MichaelPereira31/Opyt-front/
+<h4>Configure Environment Variables</h4>
+ - Copy the .env.example file to .env and add the necessary configurations.
 
 ```bash
 npm run dev
